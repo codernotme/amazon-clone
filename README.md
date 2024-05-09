@@ -22,7 +22,7 @@ To view the Amazon Clone locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/codernotme/amazon-clone
    ```
 2. Navigate to the project directory:
 
